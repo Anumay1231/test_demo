@@ -1,1 +1,1 @@
-print "krog is my friend"
+print ("krog is my friend")
